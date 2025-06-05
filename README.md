@@ -1,5 +1,8 @@
 # Shopify Rapid Deploy Action
 
+> [!WARNING]  
+> This action has been deprecated in favour of using [Shopify CLI's CI/CD features](https://shopify.dev/docs/storefronts/themes/tools/cli/ci-cd).
+
 A GitHub action for rapid deployment of Shopify themes.
 
 ## Usage
